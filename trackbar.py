@@ -28,7 +28,7 @@ def hsv_mask():
 
     while True:
         # ret, frame = video.read()
-        frame = cv2.imread("DSC_0089.JPG")
+        frame = cv2.imread("traffic_lights/7.jpg")
         height, width = frame.shape[:2]
         hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
         ilowH = cv2.getTrackbarPos('lowH', 'trackbars')
