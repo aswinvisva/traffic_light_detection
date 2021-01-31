@@ -1,6 +1,6 @@
 # Traffic Light, Arrow and Sign Classification with OpenCV
 
-C++ and Python implementations of traffic light, arrow and sign classification with OpenCV.
+C++ and Python implementations of traffic light, arrow and sign classification with OpenCV for autonomous driving applications.
 
 ## References
 
